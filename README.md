@@ -25,11 +25,14 @@ Helps you manage your daily tasks quickly from the terminal.
    python todo.py
    
 
-Usage:
+#Usage
+
 Run the app and follow on-screen prompts to add, view, and manage your tasks.
 
-Contributing:
+##Contributing
+
 Feel free to open issues or submit pull requests to improve the app!
 
-License:
-This project is licensed under the MIT License.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
