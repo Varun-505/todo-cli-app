@@ -13,8 +13,6 @@ Helps you manage your daily tasks quickly from the terminal.
 - Delete tasks  
 - Save tasks locally in a file
 
----
-
 ## Installation
 
 1. Clone the repository:
@@ -23,32 +21,19 @@ Helps you manage your daily tasks quickly from the terminal.
 ````
 
 2. Navigate to the project folder:
-
-   ```bash
+   bash
    cd todo-cli-app
-   ```
+   
 3. Run the app with Python 3:
-
-   ```bash
+   bash
    python todo.py
-   ```
-
----
+   
 
 ## Usage
-
 Run the app and follow on-screen prompts to add, view, and manage your tasks.
 
----
-
 ## Contributing
-
 Feel free to open issues or submit pull requests to improve the app!
 
----
-
 ## License
-
 This project is licensed under the MIT License.
-
-````
